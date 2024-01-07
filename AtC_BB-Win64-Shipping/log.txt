@@ -1,0 +1,317 @@
+[2024-01-07 21:21:05.754] [UnrealVR] [info] UnrealVR entry
+[2024-01-07 21:21:05.754] [UnrealVR] [info] Game Module Addr: 7ff6a58d0000
+[2024-01-07 21:21:05.754] [UnrealVR] [info] Game Module Size: 2eb0000
+[2024-01-07 21:21:05.754] [UnrealVR] [info] Getting OS version information...
+[2024-01-07 21:21:05.754] [UnrealVR] [info] OS Version Information
+[2024-01-07 21:21:05.754] [UnrealVR] [info] 	Major Version: 10
+[2024-01-07 21:21:05.754] [UnrealVR] [info] 	Minor Version: 0
+[2024-01-07 21:21:05.754] [UnrealVR] [info] 	Build Number: 22631
+[2024-01-07 21:21:05.754] [UnrealVR] [info] 	Platform Id: 2
+[2024-01-07 21:21:05.754] [UnrealVR] [info] Disclaimer: Framework does not send this information to the developers or any other third party.
+[2024-01-07 21:21:05.754] [UnrealVR] [info] This information is only used to help with the development of Framework.
+[2024-01-07 21:21:05.754] [UnrealVR] [info] [PluginLoader] Module path E:\John\Benutzer\Downloads\Around the Clock at Bikini Bottom (V1.1.0) (64 Bit)\Around the Clock at Bikini Bottom (V1.1.0) (64 Bit)\AtC_BB\Binaries\Win64\AtC_BB-Win64-Shipping.exe
+[2024-01-07 21:21:05.754] [UnrealVR] [info] [PluginLoader] Creating directories C:\Users\jonny\AppData\Roaming\UnrealVRMod\AtC_BB-Win64-Shipping\plugins
+[2024-01-07 21:21:05.754] [UnrealVR] [info] [PluginLoader] Created directory for plugins: C:\Users\jonny\AppData\Roaming\UnrealVRMod\AtC_BB-Win64-Shipping\plugins
+[2024-01-07 21:21:05.754] [UnrealVR] [info] [PluginLoader] Loading plugins...
+[2024-01-07 21:21:05.754] [UnrealVR] [info] Shared memory constructor!
+[2024-01-07 21:21:05.754] [UnrealVR] [info] Mapped memory!
+[2024-01-07 21:21:05.754] [UnrealVR] [info] Leaving Framework constructor
+[2024-01-07 21:21:05.755] [UnrealVR] [info] Command thread entry
+[2024-01-07 21:21:05.755] [UnrealVR] [info] D3D monitor thread entry
+[2024-01-07 21:21:05.788] [UnrealVR] [info] Sending rehook request for D3D
+[2024-01-07 21:21:05.788] [UnrealVR] [info] Hooking D3D12
+[2024-01-07 21:21:05.788] [UnrealVR] [info] Creating dummy device
+[2024-01-07 21:21:05.824] [UnrealVR] [info] Dummy device: 1f281877650
+[2024-01-07 21:21:05.824] [UnrealVR] [info] Creating dummy DXGI factory
+[2024-01-07 21:21:05.824] [UnrealVR] [info] Creating dummy command queue
+[2024-01-07 21:21:05.827] [UnrealVR] [info] Creating dummy swapchain
+[2024-01-07 21:21:05.827] [UnrealVR] [info] Trying swapchain attempt 0
+[2024-01-07 21:21:05.829] [UnrealVR] [info] Created dummy swapchain on attempt 0
+[2024-01-07 21:21:05.829] [UnrealVR] [info] Querying dummy swapchain
+[2024-01-07 21:21:05.829] [UnrealVR] [info] Finding command queue offset
+[2024-01-07 21:21:05.829] [UnrealVR] [info] Found command queue offset: 168
+[2024-01-07 21:21:05.831] [UnrealVR] [info] Initializing hooks
+[2024-01-07 21:21:05.831] [UnrealVR] [info] [PointerHook.cpp:24] [PointerHook] Hooking 7ff9e0c72f70->7ff9e0c047c0 to 7ff971a716db
+[2024-01-07 21:21:05.854] [UnrealVR] [info] Hooked DirectX 12
+[2024-01-07 21:21:05.856] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.868] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.885] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.901] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.917] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.933] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.949] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.965] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.981] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:05.997] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.013] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.030] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.046] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.062] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.078] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.094] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.110] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.126] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.142] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.159] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.175] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.191] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.207] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.223] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.239] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.255] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.271] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.288] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.304] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.320] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.336] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.352] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.368] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.384] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.401] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.417] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.433] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.449] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.465] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.481] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.498] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.513] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.529] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.546] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.562] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.578] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.594] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.610] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.626] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.643] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.658] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.675] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.691] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.707] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.723] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.739] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.756] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.771] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.787] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.804] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.820] [UnrealVR] [info] Attempting to initialize DirectX 12
+[2024-01-07 21:21:06.820] [UnrealVR] [info] Device: 0
+[2024-01-07 21:21:06.820] [UnrealVR] [info] SwapChain: 1f268c82d80
+[2024-01-07 21:21:06.820] [UnrealVR] [info] Device or SwapChain null. DirectX 11 may be in use. Unhooking D3D12...
+[2024-01-07 21:21:06.820] [UnrealVR] [info] Unhooking D3D12
+[2024-01-07 21:21:06.820] [UnrealVR] [info] D3D12 unhooked!
+[2024-01-07 21:21:06.820] [UnrealVR] [info] Hooking D3D11
+[2024-01-07 21:21:06.829] [UnrealVR] [info] [PointerHook.cpp:24] [PointerHook] Hooking 7ff9e0c72f70->7ff9e0c047c0 to 7ff971a717b2
+[2024-01-07 21:21:06.829] [UnrealVR] [info] [PointerHook.cpp:24] [PointerHook] Hooking 7ff9e0c72f98->7ff9e0bf3820 to 7ff971a77b1c
+[2024-01-07 21:21:06.829] [UnrealVR] [info] Hooked DirectX 11
+[2024-01-07 21:21:06.829] [UnrealVR] [error] Failed to initialize Framework on DirectX 12
+[2024-01-07 21:21:06.836] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.852] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.869] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.884] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.901] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.917] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.933] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.949] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.965] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.981] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:06.997] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.013] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.030] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.046] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.062] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.078] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.094] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.110] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.126] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.143] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.159] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.175] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.191] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.207] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.223] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.239] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.255] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.272] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.288] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.304] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.320] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.336] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.352] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.368] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.384] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.401] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.417] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.432] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.449] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.465] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.481] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.497] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.514] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.530] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.546] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.562] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.578] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.594] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.610] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.627] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.642] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.659] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.675] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.691] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.707] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.723] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.739] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.755] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.771] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.788] [UnrealVR] [error] Failed to initialize Framework on DirectX 11
+[2024-01-07 21:21:07.804] [UnrealVR] [info] Attempting to initialize DirectX 11
+[2024-01-07 21:21:07.804] [UnrealVR] [info] Window Handle: 1c114e
+[2024-01-07 21:21:07.804] [UnrealVR] [info] Initializing ImGui
+[2024-01-07 21:21:07.804] [UnrealVR] [info] Initializing ImGui Win32
+[2024-01-07 21:21:07.804] [UnrealVR] [info] Creating render target
+[2024-01-07 21:21:07.804] [UnrealVR] [info] [D3D11] Creating RTV of back buffer...
+[2024-01-07 21:21:07.804] [UnrealVR] [info] [D3D11] Back buffer format is 28
+[2024-01-07 21:21:07.804] [UnrealVR] [info] [D3D11] Creating render targets...
+[2024-01-07 21:21:07.804] [UnrealVR] [info] [D3D11] Creating rtvs...
+[2024-01-07 21:21:07.804] [UnrealVR] [info] [D3D11] Creating srvs...
+[2024-01-07 21:21:07.804] [UnrealVR] [info] [D3D11] Initializing ImGui D3D11...
+[2024-01-07 21:21:07.804] [UnrealVR] [info] Initializing WindowsMessageHook
+[2024-01-07 21:21:07.807] [UnrealVR] [info] Hooked Windows message handler
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [XInputHook] Entry
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [XInputHook] Starting hook thread
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [XInputHook] Hook thread started
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [DInputHook.cpp:17] [DInputHook] Constructing DInputHook
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [DInputHook.cpp:21] [DInputHook] Creating thread
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [DInputHook.cpp:67] [DInputHook] Exiting constructor
+[2024-01-07 21:21:07.807] [UnrealVR] [info] Starting game data initialization thread
+[2024-01-07 21:21:07.807] [UnrealVR] [info] Framework initialized
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [DInputHook.cpp:24] [DInputHook] Entering thread
+[2024-01-07 21:21:07.807] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:07.813] [UnrealVR] [info] [XInputHook] Done (1_3)
+[2024-01-07 21:21:07.813] [UnrealVR] [info] FrameworkConfig::on_initialize()
+[2024-01-07 21:21:07.813] [UnrealVR] [info] VR::on_initialize()
+[2024-01-07 21:21:07.813] [UnrealVR] [info] UObjectHook::on_initialize()
+[2024-01-07 21:21:07.813] [UnrealVR] [info] PluginLoader::on_initialize()
+[2024-01-07 21:21:07.913] [UnrealVR] [info] Game data initialization thread finished
+[2024-01-07 21:21:07.917] [UnrealVR] [info] Running first frame D3D initialization of mods...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] FrameworkConfig::on_config_load()
+[2024-01-07 21:21:07.917] [UnrealVR] [info] VR::on_config_load()
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [VR] Loading camera offsets from C:\Users\jonny\AppData\Roaming\UnrealVRMod\AtC_BB-Win64-Shipping\cameras.txt
+[2024-01-07 21:21:07.917] [UnrealVR] [info] UObjectHook::on_config_load()
+[2024-01-07 21:21:07.917] [UnrealVR] [info] PluginLoader::on_config_load()
+[2024-01-07 21:21:07.917] [UnrealVR] [info] FrameworkConfig::on_initialize_d3d_thread()
+[2024-01-07 21:21:07.917] [UnrealVR] [info] VR::on_initialize_d3d_thread()
+[2024-01-07 21:21:07.917] [UnrealVR] [info] Attempting to load OpenVR
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [VR.cpp:105] [VR] Requested runtime: openxr_loader.dll
+[2024-01-07 21:21:07.917] [UnrealVR] [info] OpenVR failed to load: OpenXR already loaded
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [VR] Initializing OpenXR
+[2024-01-07 21:21:07.917] [UnrealVR] [info] [VR] Creating OpenXR instance
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_vulkan_enable
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_vulkan_enable2
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_D3D11_enable
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_D3D12_enable
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_opengl_enable
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_win32_convert_performance_counter_time
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_win32_appcontainer_compatible
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_binding_modification
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_composition_layer_depth
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_KHR_visibility_mask
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_active_action_set_priority
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_dpad_binding
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_frame_composition_report
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_hand_tracking
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_hand_joints_motion_range
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_hp_mixed_reality_controller
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_palm_pose
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_FB_display_refresh_rate
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_HTC_vive_cosmos_controller_interaction
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_HTC_vive_focus3_controller_interaction
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_HTC_vive_wrist_tracker_interaction
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_MND_headless
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_VALVE_analog_threshold
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_HTCX_vive_tracker_interaction
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Found OpenXR extension: XR_EXT_debug_utils
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Enabling XR_KHR_composition_layer_depth extension
+[2024-01-07 21:21:07.932] [UnrealVR] [info] [VR] Application name: UEVR_AtC_BB-Win64-Shipping
+[2024-01-07 21:21:08.808] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:09.809] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:10.516] [UnrealVR] [info] [VR] Creating OpenXR system
+[2024-01-07 21:21:10.516] [UnrealVR] [error] [VR] Could not create openxr system: XR_ERROR_FORM_FACTOR_UNAVAILABLE
+[2024-01-07 21:21:10.516] [UnrealVR] [info] UObjectHook::on_initialize_d3d_thread()
+[2024-01-07 21:21:10.516] [UnrealVR] [info] PluginLoader::on_initialize_d3d_thread()
+[2024-01-07 21:21:10.516] [UnrealVR] [info] Verifying SDK pointers...
+[2024-01-07 21:21:10.516] [UnrealVR] [info] Verifying...
+[2024-01-07 21:21:10.516] [UnrealVR] [info] FrameworkConfig::on_config_load()
+[2024-01-07 21:21:10.516] [UnrealVR] [info] VR::on_config_load()
+[2024-01-07 21:21:10.516] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.516] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.516] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_data.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [CVarManager] Loading cvars_standard.txt...
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [VR] Loading camera offsets from C:\Users\jonny\AppData\Roaming\UnrealVRMod\AtC_BB-Win64-Shipping\cameras.txt
+[2024-01-07 21:21:10.517] [UnrealVR] [info] UObjectHook::on_config_load()
+[2024-01-07 21:21:10.517] [UnrealVR] [info] PluginLoader::on_config_load()
+[2024-01-07 21:21:10.517] [UnrealVR] [info] Saving config config.txt
+[2024-01-07 21:21:10.517] [UnrealVR] [info] [VR] Saving camera offsets to C:\Users\jonny\AppData\Roaming\UnrealVRMod\AtC_BB-Win64-Shipping\cameras.txt
+[2024-01-07 21:21:10.517] [UnrealVR] [info] Saved config
+[2024-01-07 21:21:10.517] [UnrealVR] [info] Signaled frontend config setup
+[2024-01-07 21:21:10.795] [UnrealVR] [info] Received frontend command: 1
+[2024-01-07 21:21:10.809] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:11.810] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:12.811] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:13.021] [UnrealVR] [info] Windows message hook is still intact, ignoring...
+[2024-01-07 21:21:13.812] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:14.813] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:15.814] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:16.814] [UnrealVR] [info] [DInputHook.cpp:44] [DInputHook] Waiting for dinput8.dll to load...
+[2024-01-07 21:21:17.807] [UnrealVR] [error] [XInputHook] Failed to find xinput1_4.dll after 10 seconds
+[2024-01-07 21:21:17.807] [UnrealVR] [info] [XInputHook] Done (1_4)
+[2024-01-07 21:21:17.815] [UnrealVR] [error] [DInputHook.cpp:40] [DInputHook] Timed out waiting for dinput8.dll to load, aborting hook
+[2024-01-07 21:21:18.026] [UnrealVR] [info] Windows message hook is still intact, ignoring...
+[2024-01-07 21:21:26.034] [UnrealVR] [info] Windows message hook is still intact, ignoring...
+[2024-01-07 21:21:31.040] [UnrealVR] [info] Windows message hook is still intact, ignoring...
+[2024-01-07 21:21:36.047] [UnrealVR] [info] Windows message hook is still intact, ignoring...
+[2024-01-07 21:21:48.688] [UnrealVR] [info] Framework shutting down...

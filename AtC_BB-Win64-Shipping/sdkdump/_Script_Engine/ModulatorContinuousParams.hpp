@@ -1,0 +1,22 @@
+#pragma once
+#include <Windows.h>
+#include <cstdint>
+#include <string>
+#include <string_view>
+namespace _Script_CoreUObject {
+struct Class;
+}
+namespace _Script_Engine {
+#pragma pack(push, 1)
+struct ModulatorContinuousParams {
+    void* get_ParameterName();
+    float& get_Default();
+    float& get_MinInput();
+    float& get_MaxInput();
+    float& get_MinOutput();
+    float& get_MaxOutput();
+    void* get_ParamMode();
+    static _Script_CoreUObject::Class* static_class();
+}; // Size: 0x0
+#pragma pack(pop)
+}

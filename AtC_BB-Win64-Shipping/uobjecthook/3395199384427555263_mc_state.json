@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent Painting_1"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 10.080804824829102,
+            "y": 45.60194778442383,
+            "z": -63.413818359375
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.19047001004219055,
+            "x": -0.11728779971599579,
+            "y": 0.9736152291297913,
+            "z": -0.04514551907777786
+        }
+    },
+    "type": "motion_controller"
+}

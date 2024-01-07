@@ -1,0 +1,18 @@
+#pragma once
+#include <Windows.h>
+#include <cstdint>
+#include <string>
+#include <string_view>
+#include "SoundNode.hpp"
+namespace _Script_CoreUObject {
+struct Class;
+}
+namespace _Script_Engine {
+#pragma pack(push, 1)
+struct SoundNodeDelay : public SoundNode {
+    float& get_DelayMin();
+    float& get_DelayMax();
+    static _Script_CoreUObject::Class* static_class();
+}; // Size: 0x28
+#pragma pack(pop)
+}

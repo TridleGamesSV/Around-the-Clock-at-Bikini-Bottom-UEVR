@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent PatrickHand"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -1.5379610061645508,
+            "y": 11.162553787231445,
+            "z": -14.270439147949219
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.9987022280693054,
+            "x": -0.025627419352531433,
+            "y": 0.04278792813420296,
+            "z": -0.010327637195587158
+        }
+    },
+    "type": "motion_controller"
+}

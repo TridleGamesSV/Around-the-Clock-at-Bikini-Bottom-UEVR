@@ -1,0 +1,27 @@
+#include "..\FUObjectArray.hpp"
+#include "FrontDoor_Krussy_BP_C.hpp"
+#include "..\_Script_CoreUObject\Class.hpp"
+#include "..\_Script_Engine\Actor.hpp"
+#include "..\_Script_Engine\BoxComponent.hpp"
+#include "..\_Script_Engine\HitResult.hpp"
+#include "..\_Script_Engine\PrimitiveComponent.hpp"
+#include "..\_Script_Engine\StaticMeshActor.hpp"
+void* _Game_Blueprints_FrontDoor_Krussy_BP::FrontDoor_Krussy_BP_C::get_UberGraphFrame() {
+    return (void*)((uintptr_t)this + 0x328);
+}
+void _Game_Blueprints_FrontDoor_Krussy_BP::FrontDoor_Krussy_BP_C::UserConstructionScript() {
+    return;
+}
+_Script_Engine::BoxComponent*& _Game_Blueprints_FrontDoor_Krussy_BP::FrontDoor_Krussy_BP_C::get_Box() {
+    return *(_Script_Engine::BoxComponent**)((uintptr_t)this + 0x330);
+}
+void _Game_Blueprints_FrontDoor_Krussy_BP::FrontDoor_Krussy_BP_C::BndEvt__Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature(_Script_Engine::PrimitiveComponent* OverlappedComponent, _Script_Engine::Actor* OtherActor, _Script_Engine::PrimitiveComponent* OtherComp, int32_t OtherBodyIndex, bool bFromSweep, _Script_Engine::HitResult& SweepResult) {
+    return;
+}
+_Script_CoreUObject::Class* _Game_Blueprints_FrontDoor_Krussy_BP::FrontDoor_Krussy_BP_C::static_class() {
+    static auto result = (_Script_CoreUObject::Class*)FUObjectArray::get()->find_uobject(L"BlueprintGeneratedClass /Game/Blueprints/FrontDoor_Krussy_BP.FrontDoor_Krussy_BP_C");
+    return result;
+}
+void _Game_Blueprints_FrontDoor_Krussy_BP::FrontDoor_Krussy_BP_C::ExecuteUbergraph_FrontDoor_Krussy_BP(int32_t EntryPoint) {
+    return;
+}

@@ -1,0 +1,23 @@
+#pragma once
+#include <Windows.h>
+#include <cstdint>
+#include <string>
+#include <string_view>
+#include "ActorComponent.hpp"
+namespace _Script_CoreUObject {
+struct Object;
+}
+namespace _Script_CoreUObject {
+struct Class;
+}
+namespace _Script_Engine {
+#pragma pack(push, 1)
+struct NavRelevantComponent : public ActorComponent {
+    bool get_bAttachToOwnersRoot();
+    void set_bAttachToOwnersRoot(bool value);
+    _Script_CoreUObject::Object*& get_CachedNavParent();
+    static _Script_CoreUObject::Class* static_class();
+    void SetNavigationRelevancy(bool bRelevant);
+}; // Size: 0x28
+#pragma pack(pop)
+}

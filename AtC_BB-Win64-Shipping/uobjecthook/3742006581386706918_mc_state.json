@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent Food_Pour"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -74.0168685913086,
+            "y": 33.422691345214844,
+            "z": 4.834723472595215
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7376916408538818,
+            "x": 0.11833915114402771,
+            "y": -0.6593616008758545,
+            "z": 0.08395889401435852
+        }
+    },
+    "type": "motion_controller"
+}

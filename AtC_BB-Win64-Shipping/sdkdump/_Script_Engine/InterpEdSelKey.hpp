@@ -1,0 +1,25 @@
+#pragma once
+#include <Windows.h>
+#include <cstdint>
+#include <string>
+#include <string_view>
+namespace _Script_Engine {
+struct InterpGroup;
+}
+namespace _Script_Engine {
+struct InterpTrack;
+}
+namespace _Script_CoreUObject {
+struct Class;
+}
+namespace _Script_Engine {
+#pragma pack(push, 1)
+struct InterpEdSelKey {
+    _Script_Engine::InterpGroup*& get_Group();
+    _Script_Engine::InterpTrack*& get_Track();
+    int32_t& get_KeyIndex();
+    float& get_UnsnappedPosition();
+    static _Script_CoreUObject::Class* static_class();
+}; // Size: 0x0
+#pragma pack(pop)
+}

@@ -1,0 +1,23 @@
+#pragma once
+#include <Windows.h>
+#include <cstdint>
+#include <string>
+#include <string_view>
+#include "..\_Script_CoreUObject\Object.hpp"
+namespace _Script_CoreUObject {
+struct Class;
+}
+namespace _Script_Engine {
+#pragma pack(push, 1)
+struct BlueprintCore : public _Script_CoreUObject::Object {
+    void* get_SkeletonGeneratedClass();
+    void* get_GeneratedClass();
+    bool get_bLegacyNeedToPurgeSkelRefs();
+    void set_bLegacyNeedToPurgeSkelRefs(bool value);
+    bool get_bLegacyGeneratedClassIsAuthoritative();
+    void set_bLegacyGeneratedClassIsAuthoritative(bool value);
+    void* get_BlueprintGuid();
+    static _Script_CoreUObject::Class* static_class();
+}; // Size: 0x28
+#pragma pack(pop)
+}
