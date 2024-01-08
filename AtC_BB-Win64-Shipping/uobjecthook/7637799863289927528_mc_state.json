@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent Chuck_2"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -6.089023113250732,
+            "y": -6.4387006759643555,
+            "z": 0.39325499534606934
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.6964541077613831,
+            "x": -0.14080871641635895,
+            "y": -0.7007841467857361,
+            "z": -0.0634509027004242
+        }
+    },
+    "type": "motion_controller"
+}

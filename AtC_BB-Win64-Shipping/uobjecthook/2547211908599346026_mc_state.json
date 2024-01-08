@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent Hold_Map_Reverse"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 27.09682846069336,
+            "y": 10.312137603759766,
+            "z": 11.852548599243164
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.9991726875305176,
+            "x": -0.03205614537000656,
+            "y": 0.02495882287621498,
+            "z": -0.001757962629199028
+        }
+    },
+    "type": "motion_controller"
+}

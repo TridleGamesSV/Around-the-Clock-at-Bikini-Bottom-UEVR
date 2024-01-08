@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent SpongebobHand"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.5296058654785156,
+            "y": 2.687908172607422,
+            "z": -24.927509307861328
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.7262997031211853,
+            "x": 0.03835158050060272,
+            "y": -0.00360957533121109,
+            "z": -0.686298131942749
+        }
+    },
+    "type": "motion_controller"
+}

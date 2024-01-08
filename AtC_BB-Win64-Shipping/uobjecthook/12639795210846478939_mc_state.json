@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "StaticMeshComponent MrKrabHand"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 0.07153892517089844,
+            "y": 0.8435916900634766,
+            "z": -21.02811050415039
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.9992574453353882,
+            "x": -0.0344327948987484,
+            "y": -0.007226245012134314,
+            "z": -0.01571369543671608
+        }
+    },
+    "type": "motion_controller"
+}

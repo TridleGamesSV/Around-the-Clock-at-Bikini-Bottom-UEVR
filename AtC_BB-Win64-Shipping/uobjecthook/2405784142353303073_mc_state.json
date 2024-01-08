@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "SquidwardHand"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -5.637142181396484,
+            "y": 7.018315315246582,
+            "z": 0.9453527927398682
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.6920309662818909,
+            "x": -0.04532899707555771,
+            "y": -0.7194722294807434,
+            "z": 0.037396274507045746
+        }
+    },
+    "type": "motion_controller"
+}

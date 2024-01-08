@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent Mayo_Throwable"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": 6.351054668426514,
+            "y": 10.276626586914063,
+            "z": -41.56692886352539
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": 0.11946216970682144,
+            "x": 0.005851550959050655,
+            "y": 0.9921375513076782,
+            "z": -0.036842916160821915
+        }
+    },
+    "type": "motion_controller"
+}

@@ -1,0 +1,24 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "BlueprintCreatedComponents",
+        "StaticMeshComponent Rock"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -4.082450866699219,
+            "y": -10.377401351928711,
+            "z": 34.54053497314453
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.9816676378250122,
+            "x": -0.15123572945594788,
+            "y": 0.0931287482380867,
+            "z": -0.06916646659374237
+        }
+    },
+    "type": "motion_controller"
+}

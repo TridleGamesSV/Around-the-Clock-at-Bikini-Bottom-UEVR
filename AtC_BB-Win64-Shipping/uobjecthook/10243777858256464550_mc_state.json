@@ -1,0 +1,23 @@
+{
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "Mayo_Minigun"
+    ],
+    "state": {
+        "hand": 1,
+        "location_offset": {
+            "x": -30.344844818115234,
+            "y": 32.48633575439453,
+            "z": 10.439839363098145
+        },
+        "permanent": true,
+        "rotation_offset": {
+            "w": -0.9989513754844666,
+            "x": -0.025620335713028908,
+            "y": 0.009850706905126572,
+            "z": -0.036642886698246
+        }
+    },
+    "type": "motion_controller"
+}
