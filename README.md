@@ -8,7 +8,7 @@ Game GameJolt: [Around the Clock at Bikini Bottom on GameJolt](https://gamejolt.
 
 UEVR: [UEVR Repository](https://github.com/praydog/UEVR)
 
-## Release v2.0.0
+## Release v0.5.0
 
 ### What's New:
 
