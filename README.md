@@ -8,11 +8,12 @@ Game GameJolt: [Around the Clock at Bikini Bottom on GameJolt](https://gamejolt.
 
 UEVR: [UEVR Repository](https://github.com/praydog/UEVR)
 
-## Release v0.5.0
+## Release v0.6.0
 
 ### What's New:
 
-- **Motion Tracking**: Experience enhanced gameplay with motion tracking now available in the first 5 levels.
+- **Motion Tracking**: Added Motion Tracking to the Rock and the Mayo in the Squidward level.
+  - Now 8 levels are playable with motion tracking.
 
 ### Installation:
 
